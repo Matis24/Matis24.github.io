@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Matis Breillad
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Matis
+last_name: Breillad
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,121 +23,131 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Data Scientist | Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+# organizations:
+#   - name: Ekwateur
+#     url: https://ekwateur.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Machine Learning 
+  - Time forecasting
+  - Survival analysis
+  - Text analysis
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Master's Degree in Data Science (MIASHS)
+    institution: Université de Montpellier 3
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-09-01
+    date_end: 2025-09-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Master's in Data Science and Artificial Intelligence, combining statistics, machine learning, multidimensional data analysis and applied projects using real-world data.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: 'Program Details'
+      url: 'https://ufr6.www.univ-montp3.fr/fr/formation/masters/master-miashs-math%C3%A9matiques-et-informatique-appliqu%C3%A9es-aux-2'
+  - area: Bachelor’s Degree in Mathematics (Statistics & Applications)
+    institution: Université de Poitiers
+    icon: ""
+    date_start: 2021-09-01
+    date_end: 2023-04-30
+    summary: |
+      In-depth training in applied statistics, data analysis, probability and modelling, with practical skills in data processing, statistical software, and interpretation of results for real-world problems.
+    button:
+      text: 'Program Details'
+      url: 'https://formations.univ-poitiers.fr/fr/index/licence-XA/licence-XA/licence-mathematiques-JB1X376F/l3-parcours-statistique-et-applications-JB1X6QAN.html'
+  - area: Intensive Two-Year Scientific Program (Maths, Physics & Engineering)
+    institution: Université de Poitiers
+    icon: ""
+    date_start: 2019-09-01
+    date_end: 2021-05-30
+    summary: |
+      Two-year intensive program in mathematics, physics, mechanics, chemistry, computer science and engineering, with a reinforced workload and extensive practical and oral work, preparing for engineering schools or entry into the 3rd year of a bachelor's degree.
+    button:
+      text: 'Program Details'
+      url: 'https://www.univ-poitiers.fr/espace-lyceen-ne/que-faire-apres-le-bac/licence-parcours-renforce/'
+  - area: High School Diploma, Science Track – Computer Science specialization
+    institution: Grand Lycée Franco-Libanais
     icon: ""
     date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_end: 2019-06-30
     summary: |
-      GPA: 4.0/4.0
+      Scientific Baccalauréat with honors, with a specialization in Computer Science and Digital Sciences, and elective courses in Theatre and History of Lebanese Heritage.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Data Scientist – MLOps
+    company_name: Ekwateur / Caprikorn
+    company_url: 'https://www.caprikorn.com/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2024-10-01
+    date_end: '2025-09-30'
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Designed and deployed predictive models for energy consumption forecasting, call volume prediction, and customer churn detection. Full pipeline management from data extraction to result visualization, leveraging Deep Learning (Transformers, DeepSurv), Machine Learning (XGBoost, Random Survival Forest) and MLOps practices (AWS SageMaker, Docker, CI/CD, GitLab).
+  - position: Data Scientist / Analyst
+    company_name: Groupe Immobilier Angelotti
+    company_url: 'https://www.angelotti.fr/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2023-10-01
+    date_end: 2024-09-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Played a key role in the migration of databases by rebuilding ETL (Extract, Transform, Load) processes to ensure data quality, consistency and usability, as well as reproducing existing dashboards. Also developed a bank loan eligibility prediction model, paired with a user interface via a Tkinter application.
+  - position: Financial Analyst – Internship
+    company_name: United Bank of Africa
+    company_url: 'https://www.ubasenegal.com/'
+    icon: ''
+    date_start: 2023-05-01
+    date_end: 2023-06-30
+    summary: |
+      Introduction to ALM (Asset & Liability Management) topics and automation of the process to predict the bank’s risk-free investable liabilities rate, improving reliability and speeding up financial analysis.
+  - position: Biostatistician – Internship
+    company_name: INRAE, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement
+    company_url: 'https://dslp.nouvelle-aquitaine-poitiers.hub.inrae.fr/'
+    icon: ''
+    date_start: 2022-05-01
+    date_end: 2022-06-30
+    summary: |
+      Analyzed the influence of season, sex and diet on calves’ average daily weight gain using A/B testing, descriptive statistics, ANOVA and regression models.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Communicator
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 100
+      - name: Proactive
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Self-starter
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 80
+  - name: Technical Skills
+    items:
+      - name: Python & SQL
+        description: ''
+        percent: 85
+        icon: code-bracket
+      - name: Machine & Deep Learning
+        description: ''
+        percent: 80
+        icon: chart-bar
+      - name: Cloud Computing (AWS)
+        description: ''
+        percent: 75
+        icon: cloud
 
 languages:
-  - name: English
+  - name: French
     percent: 100
+  - name: English
+    percent: 80
   - name: Spanish
     percent: 50
 
@@ -145,28 +155,28 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# awards:
+#   - title: Best Paper Award
+#     url: https://neurips.cc/
+#     date: '2022-12-01'
+#     awarder: NeurIPS
+#     icon: hero/trophy
+#     summary: |
+#       Awarded for groundbreaking work on efficient training of large models.
+#   - title: AI Innovation Grant
+#     url: https://www.nsf.gov/
+#     date: '2021-06-15'
+#     awarder: National Science Foundation
+#     icon: hero/currency-dollar
+#     summary: |
+#       $500,000 grant for research in ethical AI development.
+#   - title: Outstanding PhD Thesis
+#     url: https://www.stanford.edu/
+#     date: '2019-06-30'
+#     awarder: Stanford University
+#     icon: hero/academic-cap
+#     summary: |
+#       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I help companies solve complex business challenges through high-impact AI solutions, such as time-series forecasting, churn prediction, segmentation and classification. My cross-industry experience (energy, real estate, finance) and ability to clearly explain technical concepts make me an adaptable and curious professional who brings people together, combining strong communication skills with technical expertise.
