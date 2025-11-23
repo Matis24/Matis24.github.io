@@ -11,16 +11,27 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Academic Projects
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
       show_date: false
       show_read_time: false
       show_read_more: false
+  - block: collection
+    content:
+      title: Professional Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - projects2
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 3
 ---

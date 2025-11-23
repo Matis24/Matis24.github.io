@@ -26,9 +26,9 @@ highlight_name: true
 role: Data Scientist | Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: Ekwateur
-#     url: https://ekwateur.fr/
+organizations:
+  - name: Cover Letters
+    url:  /uploads/Lettres_de_recommandation.pdf
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -80,15 +80,15 @@ education:
 
 work:
   - position: Data Scientist – MLOps
-    company_name: Ekwateur / Caprikorn
-    company_url: 'https://www.caprikorn.com/'
+    company_name: Ekwateur (Energy Supplier & SaaS Company)
+    company_url: 'https://ekwateur.fr/'
     icon: ''
     date_start: 2024-10-01
     date_end: '2025-09-30'
     summary: |2-
       Designed and deployed predictive models for energy consumption forecasting, call volume prediction, and customer churn detection. Full pipeline management from data extraction to result visualization, leveraging Deep Learning (Transformers, DeepSurv), Machine Learning (XGBoost, Random Survival Forest) and MLOps practices (AWS SageMaker, Docker, CI/CD, GitLab).
-  - position: Data Scientist / Analyst
-    company_name: Groupe Immobilier Angelotti
+  - position: Data Scientist - Data Analyst
+    company_name: Angelotti (Real Estate Company)
     company_url: 'https://www.angelotti.fr/'
     icon: ''
     date_start: 2023-10-01
@@ -96,7 +96,7 @@ work:
     summary: |
       Played a key role in the migration of databases by rebuilding ETL (Extract, Transform, Load) processes to ensure data quality, consistency and usability, as well as reproducing existing dashboards. Also developed a bank loan eligibility prediction model, paired with a user interface via a Tkinter application.
   - position: Financial Analyst – Internship
-    company_name: United Bank of Africa
+    company_name: United Bank of Africa   
     company_url: 'https://www.ubasenegal.com/'
     icon: ''
     date_start: 2023-05-01
